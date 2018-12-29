@@ -1,3 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[hi]]></title><description><![CDATA[hhhh]]></description><link>https://noroozimn.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 29 Dec 2018 22:47:53 GMT</lastBuildDate><atom:link href="https://noroozimn.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Your Blog title69]]></title><description><![CDATA[<div class="paragraph">
-<p>joooooooolllyyyy</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[hi]]></title><description><![CDATA[hhhh]]></description><link>https://noroozimn.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 29 Dec 2018 22:48:25 GMT</lastBuildDate><atom:link href="https://noroozimn.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Your Blog title69]]></title><description><![CDATA[<div class="paragraph">
+<p>HubPress offers a number of themes you can use to customise your blog.</p>
+</div>
+<div class="paragraph">
+<p>If you plan to create a developer blog with plenty of code samples, you should try the uno or saga themes first.</p>
+</div>
+<div class="paragraph">
+<p>These themes have the best code block support out of all the shipped themes.</p>
+</div>
+<div class="paragraph">
+<p>That doesn’t mean you can’t customise the other themes to add highlighter support, but these will get you started blogging quicker.</p>
+</div>
+<div class="paragraph">
+<p>See Issue #407 for the origin of this article.</p>
 </div>]]></description><link>https://noroozimn.github.io/2019/01/31/My-English-Title96.html</link><guid isPermaLink="true">https://noroozimn.github.io/2019/01/31/My-English-Title96.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[Blog]]></category><category><![CDATA[Open_Source]]></category><dc:creator><![CDATA[Mehdi Noroozi]]></dc:creator><pubDate>Thu, 31 Jan 2019 00:00:00 GMT</pubDate></item></channel></rss>

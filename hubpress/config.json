@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "saga"
+    "name": "roon"
   },
   "urls": {
     "site": "https://noroozimn.github.io",
     "hubpress": "https://noroozimn.github.io",
-    "theme": "//noroozimn.github.io/themes/uno",
+    "theme": "//noroozimn.github.io/themes/saga",
     "images": "https://noroozimn.github.io/images"
   },
   "initialisationConfigComponent": {
